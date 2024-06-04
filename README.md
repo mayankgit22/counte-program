@@ -1,1 +1,1 @@
-# counte-program
+# counter-program
