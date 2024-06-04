@@ -15,6 +15,6 @@
     transition-duration: 0.35s;
     cursor: pointer;
 }
-.buttton:hover{
-    background-color: rgb(202, 67, 177);
+.button:hover{
+    background-color:  hsl(143, 47%, 55%);
 }
